@@ -1,0 +1,20 @@
+# Compiled Source #
+###################
+*.axf
+*.htm
+*.lnp
+*.lst
+*.map
+*.o
+*.plg
+*.sct
+*.dep
+*.tra
+*.uvopt
+*.crf
+*.d
+
+# Directories #
+###############
+Objects/
+Listings/
