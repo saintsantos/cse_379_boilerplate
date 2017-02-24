@@ -17,6 +17,7 @@
 *.iex
 *._ia
 *.uvgui_*
+*.iex
 
 # Directories #
 ###############
